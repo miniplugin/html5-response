@@ -13,12 +13,20 @@
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/jquery.smooth-scroll.min.js"></script>
 <script src="js/main.js"></script>
+<!-- html5가 아닌 유효성 검사 라이브러리(아래) -->
+<script src="js/jquery.validate.js"></script>
+<script src="js/additional-methods.js"></script>
 <style>
 
 </style>
 <script>
 $(document).ready(function() {
-	
+	$(".appForm").validate();
+	$.extend($.validator.messages, {
+		required: "필수 항목 입니다.",
+		email: "유효하지 않는 Email주소 입니다.",
+		digits: "숫자만 입력 가능합니다."
+	});
 });
 </script>
 </head>
