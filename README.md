@@ -6,7 +6,8 @@
 
 #### 20201104(수)
 - 메인페이지 로고 와 슬라이드(모바일용/PC용) 이미지교체
-- 테이블 display: none -> block
+- placeholder : -ms-input-placeholder 속성 크로스브라우징 처리OK.
+- 테이블 display: none -> block 크로스브라우징처리(아래)
 - 테이블 display: none -> table-cell 처리
 
 #### 20201103(화) 
