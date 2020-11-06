@@ -190,7 +190,7 @@ Ps. Page Navigation (페이징 링크 처리)
 - meta데이터: 데이터의 데이터임.(콘텐츠를 설명하는 데이터).
 - 메타태그중 viewport는 반응형사이트에서 필수.
 - 반응형사이트 화면설계서_학생용 구글ppt 다운받기(아래 구글링크):
-- https://drive.google.com/file/d/17jXgf7R2BawMt3K9eoxfnnO_8X9yClLZ/view?usp=sharing
+- https://docs.google.com/presentation/d/1NEBbXLzQ27TpENyr8VoYm9HuRaBcvpyo2Od73SXqKGw/edit?usp=sharing
 - 반응형사이트 기획서_학생용 구글xlsx 다운받기(아래 구글링크):
 - https://docs.google.com/spreadsheets/d/1D7HyYzLh7_KdQ-vboP1AwDFbmuafBnUfHTMSrLK6oAw/edit?usp=sharing
 
