@@ -92,6 +92,12 @@
   }
   /* //컨테이너영역 */
   
+  /* 슬라이드 영역 */
+  ul.viewImgList li {
+    height: 550px;
+  }
+  /* //슬라이드 영역 */
+
   /* 겔러리 최근게시물 */
   .about_area h2 {
     padding: 55px 0 105px;
