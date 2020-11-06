@@ -192,7 +192,7 @@ Ps. Page Navigation (페이징 링크 처리)
 - 반응형사이트 화면설계서_학생용 구글ppt 다운받기(아래 구글링크):
 - https://drive.google.com/file/d/17jXgf7R2BawMt3K9eoxfnnO_8X9yClLZ/view?usp=sharing
 - 반응형사이트 기획서_학생용 구글xlsx 다운받기(아래 구글링크):
-- https://drive.google.com/file/d/1dC2RMqDqNeEFtr-r-dvcsKk0YwPjk0Xy/view?usp=sharing
+- https://docs.google.com/spreadsheets/d/1D7HyYzLh7_KdQ-vboP1AwDFbmuafBnUfHTMSrLK6oAw/edit?usp=sharing
 
 #### 20201022(목)
 - 소스내용 교육용으로 정리
